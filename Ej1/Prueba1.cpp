@@ -6,6 +6,6 @@ int main (int argc, char const *argv[])
     return 0;
 }
 
-//g++ Prueba1.cpp -o prueba
+//g++ prueba1.cpp -o prueba
 
 //./prueba.exe
